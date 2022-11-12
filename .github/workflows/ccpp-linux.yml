@@ -3,7 +3,7 @@ name: C/C++ linux
 on: 
   push:
     branches:
-    - master
+    - personal_ldm_20221112_debugtest
 
 jobs:
   build:
