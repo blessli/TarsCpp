@@ -1,3 +1,4 @@
 [submodule "servant/protocol"]
 	path = servant/protocol
-	url = git@github.com:TarsCloud/TarsProtocol.git
+	# url = git@github.com:TarsCloud/TarsProtocol.git
+	url = https://github.com/TarsCloud/TarsProtocol.git
